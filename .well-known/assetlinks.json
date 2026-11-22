@@ -1,4 +1,3 @@
-
 [
   {
     "relation": [
@@ -8,10 +7,7 @@
       "namespace": "android_app",
       "package_name": "io.github.ahmedllp26_ui.twa",
       "sha256_cert_fingerprints": [
-        "69:6D:4F:0B:69:8A:51:60:CC:27:C6:F8:B9:58:CD:27:51:BA:55:F8:B7:9B:6A:ED:5B:3A:23:4E:45:42:63:6D",
-        "70:23:78:26:44:30:F4:5A:DB:6C:08:4B:F6:6A:77:4E:A9:E8:1D:1D:90:C0:10:A0:69:0C:35:13:91:8B:7E:53",
-        "0D:E0:78:C2:CF:B4:BB:02:4F:2E:F2:5C:8A:C9:61:35:FD:07:B5:B3:F7:D2:D1:AC:04:8C:87:2D:51:D2:E7:61",
-        "93:26:B9:D6:B1:2A:94:7B:13:6D:1A:FC:74:A3:27:30:13:A4:8A:2B:93:7C:39:C3:63:CE:B0:A0:1E:98:7F:35"
+        "3D:5D:CD:E3:F2:42:11:9A:69:D1:6E:BE:83:71:9C:7E:29:C8:5D:CD:59:23:C6:9C:B6:74:E7:DB:10:80:E0:76"
       ]
     }
   }
